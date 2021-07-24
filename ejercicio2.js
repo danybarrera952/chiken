@@ -8,7 +8,7 @@ const palindromo = (text = isRequired()) => {
   //evaluar que no tenga espacios
   if (text.trim().indexOf(' ') != -1)
     return console.log(
-      'el texto no debe tener espacios y tiene que ser solo una palabr'
+      'el texto no debe tener espacios y tiene que ser solo una palabra'
     );
   //funcion que corrige los espacios
   /* console.log(text.replace(/\s+/g, '')); */
