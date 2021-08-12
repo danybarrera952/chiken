@@ -25,4 +25,4 @@ function cuadrado(num) {
   return dibujo;
 }
 
-console.log(cuadrado(5));
+console.log(cuadrado(4));
